@@ -4,7 +4,7 @@
 
 const API_URL =
     // "http://127.0.0.1:8000/predict";
-    "https://mental-health-score-predictor-mjw1.onrender.com";
+    "https://mental-health-score-predictor-mjw1.onrender.com/predict";
 
 
 // ==============================
